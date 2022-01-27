@@ -6,5 +6,5 @@ CPSC 223P-01
 atakux707@csu.fullerton.edu
 """
 
-# printing hello world
+# print hello world
 print("Hello, world!")
