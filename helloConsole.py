@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-John Oates
+Angela DeLeo
 CPSC 223P-01
-1/25/2021
-joates@fullerton.edu
+01/26/2022
+atakux707@csu.fullerton.edu
 """
 
-# This is my first Python program. It greets the whole world.
+# printing hello world!
 print("Hello, world!")
